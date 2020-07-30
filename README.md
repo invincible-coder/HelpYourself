@@ -1,5 +1,4 @@
 # HelpYourself
-HelpYourself is an app that gamifies stress/anxiety/depression management to provide relief.
 
 ## How Does it Work?
 - HelpYourself quantifies the difference in a user's actual and ideal stress/anxiety/depression level as credits to be spent on a prescribed set of activities before the day ends. By doing so, users inadvertently take actionable steps to deal with their condition.
